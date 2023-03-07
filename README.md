@@ -13,12 +13,6 @@ Not sure what to put here and this is a straightforward project AND my first one
 ## Usage
 This program will produce the theoretical Final Value of a series of trades using the Apple, Inc. stock during a 5-year timeframe in the past, if it had occurred as my code has been instructed to behave.
 
-## Contributing
-Open to suggestion.
-
-## License
-MIT
-
 ## Acknowledgements 
 In addition to backtrader, pandas, Quandl, I also used the NASDAQ website.  Finally, I leaned heavily on the knowledge and experience of my mentor, Matthew Sevey.  Thank you!
 
